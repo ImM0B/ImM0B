@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./whoami.jpg" width="250" height="250" />
+  <img src="./whoami.jpg" width="225" height="225" />
 </p>
-
 <h2>
 	About Me:
 </h2>
